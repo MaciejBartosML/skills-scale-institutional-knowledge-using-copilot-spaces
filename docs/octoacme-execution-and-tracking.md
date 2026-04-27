@@ -20,8 +20,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (coordinated with [Security / Compliance](octoacme-roles-and-personas.md#security--compliance))
 - Manual QA for feature acceptance when needed
+- QA sign-off required before release gate (owner: [QA Lead](octoacme-roles-and-personas.md#qa-lead--test-engineer))
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +39,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+
+> **Phase Transition**: Use the [Execution → Release handoff checklist](octoacme-phase-handoff-checklists.md#handoff-3-execution--release) to confirm all gate criteria are met before proceeding to release.
+
+## Related Resources
+- [Roles & Personas](octoacme-roles-and-personas.md) — role definitions for QA Lead, DevOps/Release Engineer, Engineering Manager, and Security/Compliance
+- [RACI Matrix Template](octoacme-raci-matrix-template.md) — responsibility assignments for execution-phase activities
+- [Phase Handoff Checklists](octoacme-phase-handoff-checklists.md) — structured checklist for the Execution → Release transition

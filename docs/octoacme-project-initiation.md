@@ -35,9 +35,17 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
+- [ ] Draft RACI matrix for the project (see [RACI Matrix Template](octoacme-raci-matrix-template.md))
 
 ## Decision Gate
 Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+> **Phase Transition**: Use the [Initiation → Planning handoff checklist](octoacme-phase-handoff-checklists.md#handoff-1-initiation--planning) to confirm all gate criteria are met before proceeding.
+
+## Related Resources
+- [Roles & Personas](octoacme-roles-and-personas.md) — role definitions for Sponsor, Business Analyst, and all team members
+- [RACI Matrix Template](octoacme-raci-matrix-template.md) — assign responsibilities across roles for this project
+- [Phase Handoff Checklists](octoacme-phase-handoff-checklists.md) — structured checklist for the Initiation → Planning transition

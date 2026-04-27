@@ -24,5 +24,7 @@ Quality assurance is treated as a continuous requirement rather than a final gat
 | [Release & Deployment Guide](octoacme-release-and-deployment.md) | Release readiness checklist, staged deployment, and post-deploy verification |
 | [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) | Retrospective format and action item tracking |
 | [Roles & Personas](octoacme-roles-and-personas.md) | Responsibilities and expectations for each team role |
+| [RACI Matrix Template](octoacme-raci-matrix-template.md) | Reusable responsibility matrix template for assigning RACI codes across all roles and phases |
+| [Phase Handoff Checklists](octoacme-phase-handoff-checklists.md) | Gate criteria and owner assignments for each lifecycle phase transition |
 
 Each document provides actionable templates, checklists, and best practices for the relevant process stage or responsibility.
