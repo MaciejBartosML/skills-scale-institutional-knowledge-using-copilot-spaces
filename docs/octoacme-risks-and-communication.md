@@ -39,4 +39,10 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, follow the security incident runbook and notify [Security / Compliance](octoacme-roles-and-personas.md#security--compliance) on-call
+- [Support / Customer Success](octoacme-roles-and-personas.md#support--customer-success) escalates high-impact customer incidents to PM
+
+## Related Resources
+- [Roles & Personas](octoacme-roles-and-personas.md) — role definitions including Security/Compliance, Support/Customer Success, and Sponsor
+- [RACI Matrix Template](octoacme-raci-matrix-template.md) — responsibility assignments for risk and communication activities
+- [Phase Handoff Checklists](octoacme-phase-handoff-checklists.md) — gate criteria and owner assignments at each phase transition
